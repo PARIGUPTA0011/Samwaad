@@ -13,3 +13,10 @@ Keras
 OpenCV
 NumPy
 CNN (Convolutional Neural Networks)
+🎮 How It Works:
+Key Pressed	Action
+A–Z	Simulates a recognized gesture
+SPACE	Confirms current word
+ENTER	Speaks the full sentence
+R	Resets everything
+ESC	Exits the loop
